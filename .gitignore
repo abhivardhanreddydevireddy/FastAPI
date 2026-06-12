@@ -1,0 +1,6 @@
+﻿.idea/
+fastapienv/
+__pycache__/
+*.db
+*.py~
+*.pyc
